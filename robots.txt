@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suaxr.github.io/cou/sitemap.cou.gz
